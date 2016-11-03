@@ -16,8 +16,12 @@ public class MobilMobilan {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        String warna;
-        int tahunProduksi;   
+        String warna = "merah";
+        int tahunProduksi = 1999;
+        
+        System.out.println("warna:" + warna);
+        System.out.println("Tahun:" + tahunProduksi);
+        
     }
     
 }
