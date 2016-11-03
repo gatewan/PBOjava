@@ -16,6 +16,8 @@ public class MobilMobilan {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        String warna;
+        int tahunProduksi;   
     }
     
 }
